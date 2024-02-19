@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Aldo",
+        "phone": "11112222",
+        "email": "juan@gmail.com",
+        "reservation_history": []
+    },
+    {
+        "name": "Julian",
+        "phone": "222233333",
+        "email": "julian@gmail.com",
+        "reservation_history": []
+    }
+]

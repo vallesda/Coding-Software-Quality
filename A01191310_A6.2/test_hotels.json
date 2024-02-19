@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Hotel X",
+        "location": "Guadalajara",
+        "phone": "11112222",
+        "available_rooms": 50
+    },
+    {
+        "name": "Hotel B",
+        "location": "Mexico",
+        "phone": "33338888",
+        "available_rooms": 100
+    }
+]

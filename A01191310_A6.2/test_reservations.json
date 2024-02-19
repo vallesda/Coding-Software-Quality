@@ -1,0 +1,14 @@
+[
+    {
+        "customer_id": 0,
+        "hotel_id": 0,
+        "start_day": "2024-02-18",
+        "end_day": "2024-02-21"
+    },
+    {
+        "customer_id": 1,
+        "hotel_id": 1,
+        "start_day": "2024-02-18",
+        "end_day": "2024-02-22"
+    }
+]
